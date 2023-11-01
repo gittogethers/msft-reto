@@ -6,7 +6,7 @@ Para unirse al desafío, sigue estos pasos:
 
 2. Completa el GitHub Universe Cloud Skills Challenge según las instrucciones proporcionadas en la página.
 
-3. Después de completar el desafío, asegúrate de obtener tu certificado de finalización.
+3. Después de completar el desafío, asegúrate de obtener tu certificado de finalización y sacar una captura de pantalla.
 
 4. Regresa a esta [página](https://github.com/githubpresente/msft-reto/issues/1) y realiza lo siguiente:
    
