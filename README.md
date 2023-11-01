@@ -1,4 +1,5 @@
-![Completa el challenge y tendras la oportunidad de ganar un credito para tu certification oficial de GitHub Foundations](https://github.com/githubpresente/msft-reto/assets/20666190/4690f920-d452-4e9b-b9c3-aaa7483bab06)
+![Uploading Completa el challenge y tendras la oportunidad de ganar un credito para tu certification oficial de GitHub Foundations.png…]()
+
 
 Para unirse al desafío, sigue estos pasos:
 
