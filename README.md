@@ -8,7 +8,7 @@ Para unirse al desafío, sigue estos pasos:
 
 3. Después de completar el desafío, asegúrate de obtener tu certificado de finalización.
 
-4. Regresa a esta página [[enlace al issue](https://github.com/githubpresente/msft-reto/issues/1)] y realiza lo siguiente:
+4. Regresa a esta [página](https://github.com/githubpresente/msft-reto/issues/1)] y realiza lo siguiente:
    
    a. Publica un comentario.
    b. Adjunta una captura de pantalla de tu certificado de finalización como evidencia de tu participación.
